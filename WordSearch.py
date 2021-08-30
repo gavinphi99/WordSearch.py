@@ -7,9 +7,9 @@
 
 #  Student UT EID: pag2529
 
-#  Partner Name: Jack
+#  Partner Name: Jack Qiao
 
-#  Partner UT EID:
+#  Partner UT EID: jq3838
 
 #  Course Name: CS 313E
 
