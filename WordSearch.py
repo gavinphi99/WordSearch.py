@@ -1,7 +1,7 @@
 #  File: WordSearch.py
 
 #  Description: A program that finds the first position of the first letter of a word in a word search. The word
-# can either be horizontal, vertical, or diagonal in either the left or right direction.
+# can either be horizontal, vertical, or diagonal in either the left or right direction, up or down directions.
 
 #  Student Name: Phillip Gavino
 
